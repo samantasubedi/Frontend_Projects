@@ -1,0 +1,16 @@
+#all {
+  display: flex;
+  gap: 40px;
+  margin-left: 90px;
+}
+.temp {
+  display: flex;
+  gap: 10px;
+  font-size: 25px;
+  color: blue;
+}
+#output {
+  font-size: 30px;
+  color: red;
+  margin-left: 300px;
+}

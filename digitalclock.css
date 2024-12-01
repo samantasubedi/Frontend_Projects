@@ -1,0 +1,22 @@
+body {
+  background-image: url("../images-and-audio-files/mountain.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#clockcontainer {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#clock {
+  color: red;
+  font-size: 40px;
+  font-weight: bold;
+}
+#box {
+  width: auto;
+  background-color: rgb(9, 54, 75);
+  padding: 10px;
+  border-radius: 8px;
+}
