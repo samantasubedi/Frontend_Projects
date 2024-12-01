@@ -1,0 +1,58 @@
+#number {
+  height: 50px;
+  width: 150px;
+  border: 2px solid black;
+  font-size: 40px;
+  padding: 10px;
+  background-color: aquamarine;
+  color: red;
+}
+
+#btn {
+  color: blue;
+  background-color: lightgray;
+  border-radius: 5px;
+  font-size: 30px;
+}
+#both {
+  display: flex;
+  /* justify-content: center;
+   */
+  align-items: center;
+  flex-direction: column;
+}
+#txt {
+  font-size: 22px;
+  color: blueviolet;
+  display: flex;
+  justify-content: center;
+}
+.box {
+  font-size: 20px;
+  color: blueviolet;
+  border: 2px solid red;
+  border-radius: 5px;
+  height: 25px;
+  width: 50px;
+}
+#min {
+  font-size: 20px;
+  color: blueviolet;
+}
+#max {
+  font-size: 20px;
+  color: blueviolet;
+}
+#minandmax {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+#minium {
+  display: flex;
+  flex-direction: column;
+}
+#maxium {
+  display: flex;
+  flex-direction: column;
+}
